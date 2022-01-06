@@ -3,7 +3,7 @@ import sbt.Keys._
 
 object Configuration {
   val settings = Seq(
-    organization := "pedro.capriles",
+    organization := "pedrocapriles",
     scalaVersion := "2.12.7",
 
     // Custom folders path (/src/main/scala and /src/test/scala by default)
